@@ -1,9 +1,6 @@
-
-
 <?php 
 session_start(); 
 include_once 'inc/header.php';
-
 ?>
 <div class="home" id="homepage">
 
